@@ -1,9 +1,0 @@
-
-
-
-
-const store = configureStore({
-    reducer: {
-
-    }
-})
