@@ -1,0 +1,15 @@
+.mainPage{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+
+.mainPage::-webkit-scrollbar-thumb{
+    background: #7e7d7d;
+}
+/*.mainPage::-webkit-scrollbar-track*/
+.mainPage::-webkit-scrollbar-track{
+    background: #dad1d1;
+    width: 1rem;
+
+}
